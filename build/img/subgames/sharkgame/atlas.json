@@ -1,0 +1,57 @@
+{"frames": {
+
+"Shark_angry.png":
+{
+	"frame": {"x":1577,"y":2,"w":367,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":25,"w":367,"h":234},
+	"sourceSize": {"w":411,"h":288},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Shark_happy.png":
+{
+	"frame": {"x":1577,"y":238,"w":367,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":25,"w":367,"h":234},
+	"sourceSize": {"w":411,"h":288},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"island.png":
+{
+	"frame": {"x":2,"y":2,"w":1024,"h":768},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":768},
+	"sourceSize": {"w":1024,"h":768},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"thoughtbubble.png":
+{
+	"frame": {"x":1577,"y":474,"w":255,"h":208},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":29,"w":255,"h":208},
+	"sourceSize": {"w":311,"h":270},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"whiteSand.png":
+{
+	"frame": {"x":1028,"y":2,"w":729,"h":547},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":729,"h":547},
+	"sourceSize": {"w":729,"h":547},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sharkgame.png",
+	"format": "RGBA8888",
+	"size": {"w":1946,"h":772},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:984835b4d60fa080768170b40a3edbd0:fbd80917420c5edf6284229bd70c32e1:2b93a88ee9d51ca95b8fb57dd4630479$"
+}
+}
